@@ -1,2 +1,2 @@
-# CUTSCENESCRIPT
-Cutscene for pysch Engine
+Use this in Pysch Engine.
+Or can broke your song in some other engines.
